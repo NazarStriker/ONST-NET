@@ -1,0 +1,5 @@
+{
+  "name": "NeonTrace OSINT",
+  "description": "Real-time Open Source Intelligence analyzer that searches the public web for digital footprints using Gemini 3.0 Pro.",
+  "requestFramePermissions": []
+}
